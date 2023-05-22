@@ -1,0 +1,27 @@
+{
+  "Package": {
+    "Name": "Basic Starting Point for Auth0 Secured Backend",
+    "Description": "Basic Starting Point for Auth0 Secured Backend.",
+    "Image": "https://www.fathym.com/assets/images/logo.png",
+    "PreviewImage": "https://www.fathym.com/assets/images/logo.png"
+  },
+  "ConfigurationsQuestion": "Select a frontend framework",
+  "Configurations": {
+    "React": {
+      "Name": "React/Typescript Hello World",
+      "Description": "A simple React starter in Typescript for Auth0.",
+      "Phases": [
+        {
+          "Name": "Configure Auht0",
+          "Order": 1,
+          "Asset": "auth0"
+        },
+        {
+          "Name": "React Import",
+          "Order": 2,
+          "Asset": "react"
+        }
+      ]
+    }
+  }
+}

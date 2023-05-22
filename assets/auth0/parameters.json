@@ -1,0 +1,38 @@
+{
+  "PROJECT_LOOKUP": {
+    "Order": 1,
+    "Prompts": [
+      {
+        "Type": "eac:projects|select",
+        "Message": "Choose the project to deploy the application to?",
+        "Arguments": {
+          "CreateText": "Create a project"
+        }
+      }
+    ]
+  },
+  "AUTH0_DOMAIN": {
+    "Order": 2,
+    "Prompts": [
+      {
+        "Message": "Enter your Auth0 domain:"
+      }
+    ]
+  },
+  "AUTH0_CLIENT_ID": {
+    "Order": 3,
+    "Prompts": [
+      {
+        "Message": "Enter your Auth0 Client ID:"
+      }
+    ]
+  },
+  "PACKAGE_ROUTE": {
+    "Order": 2,
+    "Prompts": [
+      {
+        "Message": "Enter the route to run the application on:"
+      }
+    ]
+  }
+}
