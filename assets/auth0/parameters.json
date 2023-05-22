@@ -11,6 +11,23 @@
       }
     ]
   },
+  "ORGANIZATION": {
+    "Order": 2,
+    "Prompts": [
+      {
+        "Type": "git:organizations|select",
+        "Message": "Enter the Organization name:"
+      }
+    ]
+  },
+  "REPOSITORY": {
+    "Order": 2,
+    "Prompts": [
+      {
+        "Message": "Enter the name of the new repository:"
+      }
+    ]
+  },
   "AUTH0_DOMAIN": {
     "Order": 2,
     "Prompts": [
