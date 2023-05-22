@@ -28,7 +28,7 @@
     ]
   },
   "PACKAGE_ROUTE": {
-    "Order": 2,
+    "Order": 4,
     "Prompts": [
       {
         "Message": "Enter the route to run the application on:"
