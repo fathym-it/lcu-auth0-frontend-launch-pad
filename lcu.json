@@ -12,7 +12,7 @@
       "Description": "A simple React starter in Typescript for Auth0.",
       "Phases": [
         {
-          "Name": "Configure Auht0",
+          "Name": "Configure Auth0",
           "Order": 1,
           "Asset": "auth0"
         },
