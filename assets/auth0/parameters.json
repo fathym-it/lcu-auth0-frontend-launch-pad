@@ -48,6 +48,7 @@
     "Order": 6,
     "Prompts": [
       {
+        "Type": "utils:route",
         "Message": "Enter the route to run the application on:"
       }
     ]

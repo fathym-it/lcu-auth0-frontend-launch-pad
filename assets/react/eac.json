@@ -6,7 +6,7 @@
         "Name": "React starter without code."
       },
       "LookupConfig": {
-        "PathRegex": "/{{PACKAGE_ROUTE}}.*"
+        "PathRegex": "{{route PACKAGE_ROUTE}}.*"
       },
       "Package": {
         "Details": {
@@ -18,7 +18,7 @@
       },
       "Processor": {
         "Details": {
-          "BaseHref": "/{{PACKAGE_ROUTE}}/",
+          "BaseHref": "{{route PACKAGE_ROUTE true}}",
           "DefaultFile": "index.html"
         },
         "Type": "DFSProcessor"
