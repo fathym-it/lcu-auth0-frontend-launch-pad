@@ -3,7 +3,18 @@
     "Name": "Basic Starting Point for Auth0 Secured Backend",
     "Description": "Basic Starting Point for Auth0 Secured Backend.",
     "Image": "https://www.fathym.com/assets/images/logo.png",
-    "PreviewImage": "https://www.fathym.com/assets/images/logo.png"
+    "PreviewImage": "https://www.fathym.com/assets/images/logo.png",
+    "Intents": [
+      "React",
+      "Vue",
+      "Angular",
+      "Svelte",
+      "Auth0",
+      "Users",
+      "Getting Started",
+      "Website",
+      "Application"
+    ]
   },
   "ConfigurationsQuestion": "Select a frontend framework",
   "Configurations": {
