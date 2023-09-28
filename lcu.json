@@ -1,7 +1,7 @@
 {
   "Package": {
-    "Name": "Basic Starting Point for Auth0 Secured Backend",
-    "Description": "Basic Starting Point for Auth0 Secured Backend.",
+    "Name": "Auth0 Launch Pad",
+    "Description": "A starting point for securing an Auth0 backend.",
     "Image": "https://www.fathym.com/assets/images/logo.png",
     "PreviewImage": "https://www.fathym.com/assets/images/logo.png",
     "Intents": [
